@@ -38,7 +38,7 @@ body {
 #article-content {
     & .status {
         margin: 0 0 15px 0;
-        padding: 8px 12px;
+        padding: 5px 12px;
         background-color: #F6D050;
         border-radius: 4px;
         display: inline-block;
